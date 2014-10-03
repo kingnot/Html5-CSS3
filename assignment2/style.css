@@ -1,0 +1,78 @@
+header {
+	background-color: brown;
+	color: #fff;
+	font-size: 16px;
+	font-family: verdana;
+}
+
+ul {
+	list-style: disc;
+}
+
+li{
+	display: inline;
+	width: 25%;
+	height: 30px;
+	background-color: rgb(255, 229, 204);
+}
+
+li a {
+	text-decoration: none;
+}
+
+h1 {
+	text-align: center;
+}
+
+body {
+	margin: auto;
+	width: 1000px;
+	font-family: georgia;
+}
+
+#footerphone{
+	float: left;
+	width: 50%;
+}
+
+#bell{
+	float: left;
+	width: 50%;
+}
+
+.iphone {
+	float:left;
+	width:80%;
+	background-color:grey;
+}
+
+aside {
+	padding-right: 0px;
+	background-color: silver;
+	float:right;
+	width: 20%
+}
+
+img {
+	border: 2px solid silver;
+}
+
+p a {
+	color: blue;
+}
+
+h2 {
+	font-family: helvetica;
+	font-size: 24px;
+	color: blue;
+}
+
+figcaption {
+	font-style: italic;
+}
+
+footer {
+	background-color: silver;
+	clear:both;
+	text-align: center;
+}
