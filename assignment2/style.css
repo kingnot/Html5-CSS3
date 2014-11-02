@@ -16,8 +16,13 @@ li{
 	background-color: rgb(255, 229, 204);
 }
 
-li a {
+ul a {
 	text-decoration: none;
+}
+
+ul a:hover {
+	text-decoration: underline;
+	color: black;
 }
 
 h1 {
@@ -44,6 +49,10 @@ body {
 	float:left;
 	width:80%;
 	background-color:grey;
+}
+
+.phone {
+	float: right;
 }
 
 aside {
